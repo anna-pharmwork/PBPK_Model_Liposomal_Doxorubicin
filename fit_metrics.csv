@@ -1,0 +1,10 @@
+"metric","value"
+"optim_convergence_code",0
+"objective_total",30.7041790011036
+"log10_MSE_doxil_arm",0.0201969277631804
+"log10_MSE_free_arm",30.6839820733405
+"doxil_median_fold_error",0.935917623153637
+"doxil_fraction_FE_0.5_to_2",0.942028985507246
+"doxil_fraction_FE_0.3_to_3",0.971014492753623
+"doxil_RMSE_ug_per_mL",19.229907947968
+"doxil_MAPE_percent",27.0690617473778
