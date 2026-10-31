@@ -54,10 +54,21 @@ Digitization: WebPlotDigitizer. Points are nodes along the plotted curves, not i
 
 ## Results
 
-![Calibration](figures/Figure_3_1_Calibration_Validation.png)
-![Heart kinetics, free vs liposomal](figures/Figure_3_2_Free_vs_PLD_Heart.png)
-![Sensitivity to k_release](figures/Figure_3_3_Sensitivity_Dynamic.png)
-![Cmax vs k_release](figures/Figure_3_4_Cmax_vs_krelease.png)
+### Figure 3.1. Calibration of the liposomal DOX model
+
+![Calibration](https://raw.githubusercontent.com/anna-pharmwork/PBPK_Model_Liposomal_Doxorubicin/figures/Figure_3_1_Calibration_Validation.png)
+
+### Figure 3.2. Free DOX vs. liposomal DOX in the heart
+
+![Heart kinetics, free vs liposomal](https://raw.githubusercontent.com/anna-pharmwork/PBPK_Model_Liposomal_Doxorubicin/figures/Figure_3_2_Free_vs_PLD_Heart.png)
+
+### Figure 3.3. Sensitivity analysis of the release rate
+
+![Sensitivity to k_release](https://raw.githubusercontent.com/anna-pharmwork/PBPK_Model_Liposomal_Doxorubicin/figures/Figure_3_3_Sensitivity_Dynamic.png)
+
+### Figure 3.4. Dependence of myocardial Cmax on k_release
+
+![Cmax vs k_release](https://raw.githubusercontent.com/anna-pharmwork/PBPK_Model_Liposomal_Doxorubicin/figures/Figure_3_4_Cmax_vs_krelease.png)
 
 Fit to the Doxil profile (`results/fit_metrics.csv`): median fold error 0.94, 97% of points within 0.3-3-fold, MAPE 27%.
 
