@@ -56,7 +56,7 @@ Digitization: WebPlotDigitizer. Points are nodes along the plotted curves, not i
 
 ### Figure 3.1. Calibration of the liposomal DOX model
 
-![Calibration](https://raw.githubusercontent.com/anna-pharmwork/PBPK_Model_Liposomal_Doxorubicin/blob/figures/Figure_3_1_Calibration_Validation.png)
+![Calibration](https://raw.githubusercontent.com/anna-pharmwork/PBPK_Model_Liposomal_Doxorubicin/figures/Figure_3_1_Calibration_Validation.png)
 
 ### Figure 3.2. Free DOX vs. liposomal DOX in the heart
 
