@@ -1,8 +1,0 @@
-.Rhistory
-.RData
-.Rproj.user/
-*.Rproj
-.DS_Store
-# Do not commit the thesis text or third-party papers
-*.docx
-*.pdf
